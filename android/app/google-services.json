@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559208957066",
+    "project_id": "stangers-1abe1",
+    "storage_bucket": "stangers-1abe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559208957066:android:4fecd14758088ad4e05973",
+        "android_client_info": {
+          "package_name": "com.example.webui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559208957066-tr3g02k6vnvbvv56hlnp58dr0i74n3v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzisvIcJmtL8uaKYtW6kFa2IgKysUfs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559208957066-tr3g02k6vnvbvv56hlnp58dr0i74n3v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
